@@ -28,9 +28,6 @@
 
 ---
 
-
----
-
 ## 📊 Key Analytical Findings (2022–2025)
 ### 1. Sales Growth is the Primary Driver  
 - Top-decile sales growth firms outperformed the bottom decile by ~600%.  
