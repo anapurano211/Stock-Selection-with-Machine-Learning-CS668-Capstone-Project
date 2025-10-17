@@ -65,8 +65,4 @@ The findings confirm that **revenue, profitability, and liquidity growth** are c
 - Expanding the backtesting framework with rolling re-trains.  
 - Adding explainability (SHAP) and sector rotation simulations.
 
----
-
-## 📬 Acknowledgments
-This project bridges **data engineering, machine learning, and investment analytics** — transforming raw financial data into actionable quantitative insights.
 
