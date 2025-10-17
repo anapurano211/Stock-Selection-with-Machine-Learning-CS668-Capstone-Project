@@ -5,6 +5,11 @@
 **Repository:** [anapurano211/Stock-Selection-with-Machine-Learning-CS668-Capstone-Project](https://github.com/anapurano211/Stock-Selection-with-Machine-Learning-CS668-Capstone-Project)
 
 ---
+# Project Proposal for CS668 Stock Selection with Machine Learning Capstone Project
+
+[Link to Proposal Presentation](https://docs.google.com/presentation/d/1aSppbj_hVKVHL4m_4S7yzVH2PhDZKpjp/edit?rtpof=true)
+
+---
 
 ## 🎯 Project Overview
 This project applies **machine learning and data analytics** to identify the company-level indicators that consistently drive stock outperformance relative to the **S&P 500** benchmark.  
