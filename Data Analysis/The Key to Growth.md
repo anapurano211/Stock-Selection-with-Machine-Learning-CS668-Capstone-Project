@@ -31,7 +31,7 @@
 ## 📊 Key Analytical Findings (2022–2025)
 ### 1. Sales Growth is the Primary Driver  
 - Top-decile sales growth firms outperformed the bottom decile by ~600%.  
-- 46% of variance in returns explained by sales growth.  
+- 46% of variance in returns explained by sales growth.
 
 ### 2. Profitability and Earnings Efficiency Matter  
 - Positive operating margin growth correlated with strong alpha, especially in Tech and Industrials.  
