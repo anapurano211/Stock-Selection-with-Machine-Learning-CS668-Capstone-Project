@@ -11,6 +11,13 @@
 
 ---
 
+
+# Mid Semester Presentation 
+
+[Link to Video](https://www.youtube.com/watch?v=z10mCpgJmm8)
+
+---
+
 ## 🎯 Project Overview
 This project applies **machine learning and data analytics** to identify the company-level indicators that consistently drive stock outperformance relative to the **S&P 500** benchmark.  
 According to S&P’s Global *SPIVA U.S. Scorecard*, over **97%** of actively managed domestic funds have underperformed the market’s average return (~8% annually over the last 20 years).  
