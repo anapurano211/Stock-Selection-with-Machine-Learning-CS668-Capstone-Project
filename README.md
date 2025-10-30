@@ -12,11 +12,22 @@
 ---
 
 
-# Mid Semester Presentation 
+# Mid Semester Presentation Video 
 
 [Link to Video](https://www.youtube.com/watch?v=z10mCpgJmm8)
 
 ---
+
+
+---
+
+
+# Mid Semester Presentation PPT
+
+[Link to Video](https://docs.google.com/presentation/d/1byrtVrvBgAg2GIO29Z4-HbKvwiikm36z/edit?slide=id.p1#slide=id.p1)
+
+---
+
 
 ## 🎯 Project Overview
 This project applies **machine learning and data analytics** to identify the company-level indicators that consistently drive stock outperformance relative to the **S&P 500** benchmark.  
