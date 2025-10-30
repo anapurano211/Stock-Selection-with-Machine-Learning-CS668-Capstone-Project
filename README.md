@@ -22,7 +22,7 @@
 
 # Mid Semester Presentation PPT
 
-[Link to Video](https://docs.google.com/presentation/d/1byrtVrvBgAg2GIO29Z4-HbKvwiikm36z/edit?slide=id.p1#slide=id.p1)
+[Link to Materials](https://docs.google.com/presentation/d/1byrtVrvBgAg2GIO29Z4-HbKvwiikm36z/edit?slide=id.p1#slide=id.p1)
 
 ---
 
