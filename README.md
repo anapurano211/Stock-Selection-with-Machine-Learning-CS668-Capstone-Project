@@ -9,6 +9,7 @@
 
 [Link to Proposal Presentation](https://docs.google.com/presentation/d/1aSppbj_hVKVHL4m_4S7yzVH2PhDZKpjp/edit?rtpof=true)
 
+Section 1
 ---
 
 
@@ -22,10 +23,17 @@
 
 # Mid Semester Presentation PPT
 
-[Link to Materials](https://docs.google.com/presentation/d/1byrtVrvBgAg2GIO29Z4-HbKvwiikm36z/edit?slide=id.p1#slide=id.p1)
+[Link to Proposal Presentation](https://docs.google.com/presentation/d/1aSppbj_hVKVHL4m_4S7yzVH2PhDZKpjp/edit?rtpof=true)
 
+Section 5
 ---
 
+
+# Model Results
+
+[Link to Proposal Presentation](https://docs.google.com/presentation/d/1aSppbj_hVKVHL4m_4S7yzVH2PhDZKpjp/edit?rtpof=true)
+
+Section 7
 
 ## 🎯 Project Overview
 This project applies **machine learning and data analytics** to identify the company-level indicators that consistently drive stock outperformance relative to the **S&P 500** benchmark.  
