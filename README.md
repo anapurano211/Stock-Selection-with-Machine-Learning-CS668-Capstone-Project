@@ -23,7 +23,7 @@ Section 1
 
 # Mid Semester Presentation PPT
 
-[Link to Proposal Presentation](https://docs.google.com/presentation/d/1aSppbj_hVKVHL4m_4S7yzVH2PhDZKpjp/edit?rtpof=true)
+[Link to Mid Semester Presentation](https://docs.google.com/presentation/d/1aSppbj_hVKVHL4m_4S7yzVH2PhDZKpjp/edit?rtpof=true)
 
 Section 5
 ---
@@ -31,7 +31,7 @@ Section 5
 
 # Model Results
 
-[Link to Proposal Presentation](https://docs.google.com/presentation/d/1aSppbj_hVKVHL4m_4S7yzVH2PhDZKpjp/edit?rtpof=true)
+[Link to Model Results Presentation](https://docs.google.com/presentation/d/1aSppbj_hVKVHL4m_4S7yzVH2PhDZKpjp/edit?rtpof=true)
 
 Section 7
 
