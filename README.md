@@ -31,9 +31,10 @@ Section 5
 
 # Model Results
 
-[Link to Model Results Presentation](https://docs.google.com/presentation/d/1aSppbj_hVKVHL4m_4S7yzVH2PhDZKpjp/edit?rtpof=true)
+[Link to Mid Semester Presentation](https://docs.google.com/presentation/d/1aSppbj_hVKVHL4m_4S7yzVH2PhDZKpjp/edit?rtpof=true)
 
-**Section 7**
+Section 7
+---
 
 ## 🎯 Project Overview
 This project applies **machine learning and data analytics** to identify the company-level indicators that consistently drive stock outperformance relative to the **S&P 500** benchmark.  
