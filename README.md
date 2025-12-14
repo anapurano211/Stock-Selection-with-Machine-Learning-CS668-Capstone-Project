@@ -9,7 +9,6 @@
 
 [Link to Proposal Presentation](https://docs.google.com/presentation/d/1aSppbj_hVKVHL4m_4S7yzVH2PhDZKpjp/edit?rtpof=true)
 
-Section 1
 ---
 
 
@@ -25,15 +24,22 @@ Section 1
 
 [Link to Mid Semester Presentation](https://docs.google.com/presentation/d/1aSppbj_hVKVHL4m_4S7yzVH2PhDZKpjp/edit?rtpof=true)
 
-Section 5
+
 ---
 
 
 # Model Results
 
-[Link to Mid Semester Presentation](https://docs.google.com/presentation/d/1aSppbj_hVKVHL4m_4S7yzVH2PhDZKpjp/edit?rtpof=true)
+[Link to Model Results](https://docs.google.com/presentation/d/1aSppbj_hVKVHL4m_4S7yzVH2PhDZKpjp/edit?rtpof=true)
 
-Section 7
+
+---
+
+# Final Presentation
+
+[Link to Final Presentation](https://www.youtube.com/watch?v=59tR4hmUAV0)
+
+
 ---
 
 ## 🎯 Project Overview
